@@ -18,3 +18,10 @@ section {
     text-decoration: none;
     padding: 10px;
 }
+
+.mx {
+    color: white;
+    background-color: aqua;
+    border-radius: 10px;
+    padding: 5px;
+}
