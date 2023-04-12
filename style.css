@@ -1,6 +1,20 @@
-.oreng-colar{
+.oreng-colar {
     color: gold;
 }
-section{
+
+section {
     display: flex;
+}
+
+.haif-width {
+    width: 50%;
+}
+
+.add {
+    background-image: linear-gradient(yellow, green);
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+    text-decoration: none;
+    padding: 10px;
 }
