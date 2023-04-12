@@ -1,6 +1,6 @@
-
-h1{ 
-    color: darkred;
-    font-size: 50px;
-
+.oreng-colar{
+    color: gold;
+}
+section{
+    display: flex;
 }
