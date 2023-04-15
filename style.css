@@ -7,7 +7,7 @@ section {
 }
 
 .haif-width {
-    width: 30%;
+    width: 100%;
 }
 
 .add {
@@ -29,4 +29,9 @@ section {
 
 body {
     font-family: 'PT Serif', serif;
+}
+
+.bacraund {
+    background-image: url(moshiur.jpeg);
+    background-repeat: no-repeat;
 }
